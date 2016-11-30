@@ -1,5 +1,7 @@
 # Welcome to Software Carpentry  
 
+![](http://software-carpentry.org/assets/img/logo-blue.svg)
+
 This is a meta package to help navigate the numerous packages and lessons of the [Software Carpentry](http://software-carpentry.org/) community on GitHub.
 
 ## What is Software Carpentry
