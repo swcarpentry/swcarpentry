@@ -5,6 +5,16 @@ This is a meta package to help navigate the numerous packages and lessons of the
 ## What is Software Carpentry
 Software Carpentry is a community of volunteer instructors who teach short workshops and develop lessons which empower researchers of all disciplines to learn about and improve the ways in which they create software and collaborate.
 
+## Code of Conduct
+
+We are an open and inviting community with an actively enforced [Code of
+Conduct](http://software-carpentry.org/conduct/).  We value the involvement of
+everyone in this community - learners, instructors, hosts, developers, steering
+committee members and staff. We are committed to creating a friendly and
+respectful place for learning, teaching and contributing. All participants in
+our events and communications are expected to show respect and courtesy to
+others.
+
 ## Lesson Repositories
 |Lesson|Repository|	Site
 |------|------|-----------|
@@ -38,4 +48,18 @@ helping to direct and support the sustainment and growth of the community.
 You can [get involved](http://software-carpentry.org/join/) with our community
 by subscribing to our [newsletter](http://eepurl.com/cfODMH) joining our
 [mailing lists](http://software-carpentry.org/join/#discussion) or coming to one
-of our [community events/meetings](http://software-carpentry.org/join/#calendar)
+of our [community events/meetings](http://software-carpentry.org/join/#calendar). Want to contribute to the lessons themselves, a list of our [open GitHub issues](http://software-carpentry.org/lessons/dashboard/) is a good place to start and each of our lessons has a [CONTRIBUTING.md](https://github.com/swcarpentry/shell-novice/blob/gh-pages/CONTRIBUTING.md) (example from `shell-novice`) that details how and what contributions are welcome.
+
+## Lesson template
+
+We maintain a set of CSS and Jekyll scaffolding that can be used to help organize and create lessons in our style ([swcarpentry/styles](https://github.com/swcarpentry/styles)). Instructions for how to contribute are in [swcarpentry/lesson-example](https://github.com/swcarpentry/lesson-example).
+
+## Infrastructure project
+
+We run a bunch of workshops every year, to coordinate all of our workshop activities we have been developing an open source tool called [AMY](https://github.com/swcarpentry/amy). AMY is a Django application that helps us to manage our volunteer network and track when and where we will and have run workshops. It is an essential part of our day-to-day operations and is itself an open source project that welcomes contributions.
+
+## Related projects
+
+We work closely with the following projects and share community and instructor capacity:
+* [Data Carpentry](https://datacarpentry.org)
+* [Library Carpentry](https://github.com/LibraryCarpentry)
