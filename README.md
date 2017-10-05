@@ -29,7 +29,7 @@ Programming with R | [swcarpentry/r-novice-inflammation](https://github.com/swca
 R for Reproducible Scientific Analysis | [swcarpentry/r-novice-gapminder/](https://github.com/swcarpentry/r-novice-gapminder) | [rendered](http://swcarpentry.github.io/r-novice-gapminder/)
 Programming with MATLAB	| [swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation) | [rendered](http://swcarpentry.github.io/matlab-novice-inflammation/)
 Automation and Make	| [swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) | [rendered](http://swcarpentry.github.io/make-novice)
-Instructor Training	 | [swcarpentry/instructor-training](https://github.com/swcarpentry/instructor-training) | [rendered](http://swcarpentry.github.io/instructor-training/)
+Instructor Training	 | [carpentries/instructor-training](https://github.com/carpentries/instructor-training) | [rendered](http://carpentries.github.io/instructor-training/)
 
 ## Run a workshop
 
