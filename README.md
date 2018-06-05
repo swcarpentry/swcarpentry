@@ -65,3 +65,7 @@ We run a bunch of workshops every year, to coordinate all of our workshop activi
 We work closely with the following projects and share community and instructor capacity:
 * [Data Carpentry](https://datacarpentry.org)
 * [Library Carpentry](https://github.com/LibraryCarpentry)
+
+## Non Official Lessons
+* [Python As A Second Language](https://github.com/swcarpentry/python-second-language)
+* [Managing a Research Software Project](https://github.com/swcarpentry/managing-research-software-projects)
