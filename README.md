@@ -66,6 +66,9 @@ We work closely with the following projects and share community and instructor c
 * [Data Carpentry](https://datacarpentry.org)
 * [Library Carpentry](https://github.com/LibraryCarpentry)
 
-## Non Official Lessons
+## Experimental Lessons
+
+These lessons were created as part of a contract to deliver advanced material. They've been taught a few times, but could benefit from some care and attention from the community. If you're interested in engaging with these lessons, please contact [Jonah Duckles](mailto:jduckles@carpentries.org)
+
 * [Python As A Second Language](https://github.com/swcarpentry/python-second-language)
 * [Managing a Research Software Project](https://github.com/swcarpentry/managing-research-software-projects)
