@@ -50,7 +50,7 @@ helping to direct and support the sustainment and growth of the community.
 You can [get involved](http://software-carpentry.org/join/) with our community
 by subscribing to our [newsletter](http://eepurl.com/cfODMH) joining our
 [mailing lists](http://software-carpentry.org/join/#discussion) or coming to one
-of our [community events/meetings](http://software-carpentry.org/join/#calendar). Want to contribute to the lessons themselves, a list of our [open GitHub issues](http://software-carpentry.org/lessons/dashboard/) is a good place to start and each of our lessons has a [CONTRIBUTING.md](https://github.com/swcarpentry/shell-novice/blob/gh-pages/CONTRIBUTING.md) (example from `shell-novice`) that details how and what contributions are welcome. We use etherpads to manage much of our work and communications, we have an [ehterpad of etherpads](http://pad.software-carpentry.org/pad-of-pads) to help you find things you're looking for.
+of our [community events/meetings](http://software-carpentry.org/join/#calendar). Want to contribute to the lessons themselves, a list of our [open GitHub issues](http://software-carpentry.org/lessons/dashboard/) is a good place to start and each of our lessons has a [CONTRIBUTING.md](https://github.com/swcarpentry/shell-novice/blob/gh-pages/CONTRIBUTING.md) (example from `shell-novice`) that details how and what contributions are welcome. We use etherpads to manage much of our work and communications, we have an [etherpad of etherpads](http://pad.software-carpentry.org/pad-of-pads) to help you find things you're looking for.
 
 ## Lesson template
 
