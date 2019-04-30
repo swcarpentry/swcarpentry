@@ -17,6 +17,8 @@ respectful place for learning, teaching and contributing. All participants in
 our events and communications are expected to show respect and courtesy to
 others.
 
+Hi my name is Liam
+
 ## Lesson Repositories
 |Lesson|Repository|	Site
 |------|------|-----------|
