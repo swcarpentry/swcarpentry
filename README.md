@@ -1,3 +1,4 @@
+Trivial change
 # Welcome to Software Carpentry  
 
 ![](http://software-carpentry.org/assets/img/logo-blue.svg)
