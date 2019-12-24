@@ -58,7 +58,7 @@ We maintain a set of CSS and Jekyll scaffolding that can be used to help organiz
 
 ## Infrastructure project
 
-We run a bunch of workshops every year, to coordinate all of our workshop activities we have been developing an open source tool called [AMY](https://github.com/swcarpentry/amy). AMY is a Django application that helps us to manage our volunteer network and track when and where we will and have run workshops. It is an essential part of our day-to-day operations and is itself an open source project that welcomes contributions.
+We run a bunch of workshops every year, to coordinate all of our workshop activities we have been developing an open source tool called [AMY](https://github.com/swcarpentry/amy). AMY is a Django application (commonly known by the overrated Tarantino film's name) that helps us to manage our volunteer network and track when and where we will and have run workshops. It is an essential part of our day-to-day operations and is itself an open source project that welcomes contributions.
 
 ## Related projects
 
