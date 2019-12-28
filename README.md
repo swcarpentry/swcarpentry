@@ -5,6 +5,7 @@
 This is a meta repository to help navigate the numerous repositories and lessons of the [Software Carpentry](http://software-carpentry.org/) community on GitHub.
 
 ## What is Software Carpentry
+
 Software Carpentry is a community of volunteer instructors who teach short workshops and develop lessons which empower researchers of all disciplines to learn about and improve the ways in which they create software and collaborate.
 
 ## Code of Conduct
