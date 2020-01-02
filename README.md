@@ -1,7 +1,7 @@
 # Welcome to Software Carpentry  
 
 ![](http://software-carpentry.org/assets/img/logo-blue.svg)
-
+TEST-minorchange
 This is a meta repository to help navigate the numerous repositories and lessons of the [Software Carpentry](http://software-carpentry.org/) community on GitHub.
 
 ## What is Software Carpentry
