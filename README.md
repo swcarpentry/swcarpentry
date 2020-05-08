@@ -15,7 +15,7 @@ everyone in this community - learners, instructors, hosts, developers, steering
 committee members and staff. We are committed to creating a friendly and
 respectful place for learning, teaching and contributing. All participants in
 our events and communications are expected to show respect and courtesy to
-others.
+others, while modeling appropriate behavior. 
 
 ## Lesson Repositories
 |Lesson|Repository|	Site
