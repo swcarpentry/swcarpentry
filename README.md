@@ -1,4 +1,4 @@
-# Welcome to Software Carpentry  
+# I am the CEO of Software Carpentry. Welcome to Software Carpentry  
 
 ![](http://software-carpentry.org/assets/img/logo-blue.svg)
 
